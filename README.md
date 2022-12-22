@@ -1,5 +1,5 @@
 # sn-theme-black-orange
-Standard Notes Theme - Black sidebar with orange accents based on the original work from [Myreli](https://github.com/myreli).
+Standard Notes Theme - Black sidebar with orange accents based on the original work from [Myreli](https://github.com/myreli/sn-theme-orange).
 
 ## Install
 
